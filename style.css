@@ -1,0 +1,148 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background: linear-gradient(to left,
+            rgba(0, 0, 0, 0),
+            rgba(0, 0, 0, 100)), url(image/header.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    color: white;
+}
+
+.header {
+    width: 50%;
+    margin-left: 15%;
+    padding-top: 200px;
+}
+
+button {
+    text-decoration: none;
+    border: none;
+    padding: 10px 10px;
+    color: white;
+    background-color: #ef233c;
+    border-radius: 2px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.donation {
+    display: flex;
+    height: 400px;
+    margin-top: 100px;
+}
+
+.lives-depend {
+    width: 40%;
+    margin-left: 10%;
+}
+
+#lives-depend {
+    padding-top: 100px;
+}
+
+.lives-depend iframe {
+    border-radius: 5px;
+}
+
+.suvive {
+    display: flex;
+    height: 400px;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+.to-suvive {
+    width: 40%;
+    margin-left: 10%;
+
+}
+
+.to-suvive img {
+    border-radius: 5px;
+
+}
+
+#to-suvive {
+    padding-top: 100px;
+
+}
+
+.donation {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.donation-blog {
+    float: center;
+
+
+}
+
+.help div {
+
+    background-color: #fef4f5;
+    border-radius: 2%;
+    width: 35%;
+    padding: 20px 20px;
+    margin-left: 8%;
+
+}
+
+.help {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+article {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+}
+
+.rectangle-img {
+    margin-left: 100px;
+}
+
+.rectangle-img img {
+    margin-left: 5px;
+}
+
+
+h3 {
+    color: #ef233c;
+    text-decoration: 2px solid underline;
+}
+
+.zakat {
+    display: flex;
+    margin-bottom: 100px;
+
+
+}
+
+.zakat-fund {
+    width: 25%;
+    margin-left: 70px;
+}
+
+footer {
+    height: 200px;
+    text-align: center;
+    background-color: black;
+}
+
+footer h1 {
+    padding-top: 50px;
+    color: #ef233c;
+}
+
+footer p {
+    color: white;
+}
